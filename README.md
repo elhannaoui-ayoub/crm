@@ -5,4 +5,6 @@
 <h1>default administrator credentials </h1> 
 <h3>Email :admin@admin.com</h3> 
 <h3>Password :password </h3> 
+<h1>Administrateur login page /administrateur/login </h1>
+<h1>Employe  login page /employe/login </h1>
 
