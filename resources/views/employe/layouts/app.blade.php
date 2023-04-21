@@ -99,7 +99,7 @@
     <div class="nav-item text-nowrap">
       
 
-        <form action="{{route('administrateur.logout')}}" method="POST">@csrf
+        <form action="{{route('employe.logout')}}" method="POST">@csrf
         
             <button class="btn btn-primary"  type="submit" >Sign out</button>
         </form>
